@@ -13,7 +13,7 @@ const Hero = (props) => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        A collection of my blockchain development portfolios and learning journey.
+        A collection of <strong>Francisldn's</strong> blockchain development portfolios and learning journey.
       </SectionText>
     </LeftSection>
   </Section>
