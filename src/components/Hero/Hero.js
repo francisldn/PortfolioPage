@@ -1,8 +1,7 @@
 import React from 'react';
 
 import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
-import Button from '../../styles/GlobalComponents/Button';
-import { LeftSection } from './HeroStyles';
+import { LeftSection, emphasis } from './HeroStyles';
 
 
 const Hero = (props) => (
@@ -13,7 +12,7 @@ const Hero = (props) => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        A collection of <strong>Francisldn's</strong> blockchain development portfolios and learning journey.
+        A collection of Francisldn's blockchain development portfolios and learning journey.
       </SectionText>
     </LeftSection>
   </Section>
